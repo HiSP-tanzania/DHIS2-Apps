@@ -1,2 +1,2 @@
 # DHIS2-Apps
-The repository holds projects and innovation that are under hisp tanzania
+The repository holds web applications that run in dhis2 web application
